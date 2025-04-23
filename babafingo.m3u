@@ -58,7 +58,7 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Spor Yıldız"tvg-id="TRT Spor Yıldız.tr"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png"group-title="Spor":http-referrer="https://bosssports15.com/":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",TRT Spor Yıldız
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 #EXTVLCOPT:http-referrer=https://bosssports15.com/
-https://7815ee79cc.468dcefc08.workers.dev/f6e33e69e0fdec0a7780e174f3c8b2c2/DmodYM9CdSNPUZyc2x7VWd/79/7815ee79cc.468dcefc08.workers.dev/chunklist_hd.m3u8
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor"tvg-id="Tivibu Spor.tr"tvg-logo="https://i1.sndcdn.com/avatars-000335394613-kvru7x-t1080x1080.jpg"group-title="Spor":http-referrer="https://jokerbettv177.com/canli-izle/tivibu-spor-1":http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1",Tivibu Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://jokerbettv177.com/canli-izle/tivibu-spor-1
@@ -109,8 +109,6 @@ http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10004
 https://s6.hopslan.com/disneyX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRT Çocuk"tvg-id="TRT Çocuk.tr"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png"group-title="Çocuklara Özel":http-referrer="":http-user-agent="",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network"tvg-id="Cartoon Network.tr"tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png"group-title="Çocuklara Özel":http-referrer="":http-user-agent="",Cartoon Network
-https://yayin2.canlitv.fun/live/cartoon-network.stream/chunklist_w1619363586.m3u8?hash=b391220d10e33ed05d9569134f09f651
 #EXTINF:-1 tvg-name="Minika Go"tvg-id="Minika Go.tr"tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/minika-go-tr.png"group-title="Çocuklara Özel":http-referrer="":http-user-agent="",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-name="Minika Cocuk"tvg-id="Minika Çocuk.tr"tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/minika-cocuk-tr.png"group-title="Çocuklara Özel":http-referrer="":http-user-agent="",Minika Cocuk
